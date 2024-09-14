@@ -21,7 +21,7 @@ OrthoDontist passionate about programming, Working as a Full Stack Developer:
 - Worked with all major cloud providers, specially AWS
 - Red Team and SOC Fan training on TryHackMe.com and HackTheBox.com:
   - UserName: Omar.Makarem
-    <img src="https://tryhackme-badges.s3.amazonaws.com/Omar.Makarem.png" alt="TryHackMe">
+    <br><img src="https://tryhackme-badges.s3.amazonaws.com/Omar.Makarem.png" alt="TryHackMe">
 
 
 
