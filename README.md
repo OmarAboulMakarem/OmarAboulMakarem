@@ -1,23 +1,23 @@
 # 💫 About Me:
 OrthoDontist passionate about programming, Working as a Full Stack Developer:
 - Created my Start Up CyberTooth using Django, HTMX , Flutter, AWS, Docker, and Kubernetes
-    https://cybertooth.app
+  - https://cybertooth.app
 - Working on a Ruby on Rails, React Native, Expo, NextJS, and VueJS Shopifiy alternative Zammit
-    https://zammit.shop
+  - https://zammit.shop
 - Created Multiple Wordpress/WooCommerce Freelance Projects Examples:
-    https://ExMartEgypt.com
-    FutureNowGlobal.com
-    Cube108.com
+  - https://ExMartEgypt.com
+  - FutureNowGlobal.com
+  - Cube108.com
 - HTML/CSS Websites Projects Examples:
-    Abul-Makarem.com
-    CampusOrganizer.app
-    https://cybertooth.app
+  - Abul-Makarem.com
+  - CampusOrganizer.app
+  - https://cybertooth.app
 - Mobile Apps Using Flutter Projects (Android/IOS) Examples:
-    CyberTooth Dental
-    LifeAim Energize
+  - CyberTooth Dental
+  - LifeAim Energize
 - Mobile Apps Using ReactNative and Expo Projects (Android/IOS) Examples:
-    ZamPOS
-    ZamShop
+  - ZamPOS
+  - ZamShop
 - Worked with all major cloud providers, specially AWS
 
 
