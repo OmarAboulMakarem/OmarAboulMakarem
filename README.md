@@ -20,7 +20,7 @@ OrthoDontist passionate about programming, Working as a Full Stack Developer:
   - ZamShop
 - Worked with all major cloud providers, specially AWS
 - Red Team and SOC Fan training on TryHackMe.com and HackTheBox.com:
-  - <script src="https://tryhackme.com/badge/1515032"></script>
+  - <img src="https://tryhackme-badges.s3.amazonaws.com/Omar.Makarem.png" alt="TryHackMe">
 
 
 
