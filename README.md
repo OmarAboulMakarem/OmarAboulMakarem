@@ -1,11 +1,15 @@
 # 💫 About Me:
-OrthoDontist passionate about programming, Working as a Full Stack Developer:<br>- Created my Start Up CyberTooth using Django, HTMX , Flutter, AWS, Docker, and Kubernetes<br>    https://cybertooth.app<br>- Working on a Ruby on Rails, React Native, Expo, NextJS, and VueJS Shopifiy alternative Zammit<br>    https://zammit.shop<br>- Created Multiple Wordpress/WooCommerce Freelance Projects<br>   https://ExMartEgypt.com
+OrthoDontist passionate about programming, Working as a Full Stack Developer:<br>- Created my Start Up CyberTooth using Django, HTMX , Flutter, AWS, Docker, and Kubernetes<br>    https://cybertooth.app<br>- Working on a Ruby on Rails, React Native, Expo, NextJS, and VueJS Shopifiy alternative Zammit<br> https://zammit.shop<br>- Created Multiple Wordpress/WooCommerce Freelance Projects<br> Ex: https://ExMartEgypt.com
 <br>
-Spoken/Written Languages:<br>
+
+Languages i can speak and write:<br>
 - Arabic: Native Level<br>
 - English: Professional Level<br>
 - French: Good Level<br>
 - Romanian: Average Level<br>
+- Italian: Weak Level<br>
+- German: Weak Level<br>
+
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/omaraboulmakarem) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/omar-aboul-makarem-386792133) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/omar911112) 
