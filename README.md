@@ -5,6 +5,8 @@ OrthoDontist passionate about programming, Working as a Full Stack Developer:
 - Working on a Ruby on Rails, React Native, Expo, NextJS, and VueJS Shopifiy alternative Zammit
   - https://Zammit.shop
 - Created Multiple Wordpress/WooCommerce Freelance Projects Examples:
+  - https://norwichinternationalcollege.com
+  - https://sddc-africa-2025.com
   - https://ExMartEgypt.com
   - https://FutureNowGlobal.com
   - https://Cube108.com
