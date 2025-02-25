@@ -27,7 +27,6 @@ OrthoDontist passionate about programming, Working as a Full Stack Developer:
 
 
 
-[![SadServers Level](https://img.shields.io/badge/SadServers-Master-lightgrey?style=for-the-badge&logo=server&logoColor=white)](http://localhost:8000/accounts/dashboard)
 
 Languages i can speak and write:<br>
 - Arabic: Native Level<br>
