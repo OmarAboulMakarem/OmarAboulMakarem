@@ -1,9 +1,13 @@
 # 💫 About Me:
-OrthoDontist passionate about programming, Working as a Full Stack Developer:
-- Created my Start Up CyberTooth using Django, HTMX , Flutter, AWS, Docker, and Kubernetes
+Senior Full Stack Developer:
+- Created Start Up CyberTooth using Django, HTMX , Flutter, AWS, Docker, and Kubernetes
   - https://CyberTooth.app
-- Working on a Ruby on Rails, React Native, Expo, NextJS, and VueJS Shopifiy alternative Zammit
+-  Senior FullStack Developer on a Ruby on Rails, React Native, Expo, NextJS, and VueJS Shopifiy alternative Zammit
   - https://Zammit.shop
+- Senior Backend/Devops Engineer at SolvaitWise AI driven HR system:
+  - Django Backend with openai and a Flutter Frontend
+- Senior FullStack Developer at American University (AUC):
+  - Carbon Data Assesment System to measure the carbon footprint of Universities
 - Created Multiple Wordpress/WooCommerce Freelance Projects Examples:
   - https://norwichinternationalcollege.com
   - https://sddc-africa-2025.com
