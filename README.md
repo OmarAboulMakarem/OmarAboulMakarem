@@ -7,7 +7,8 @@ Senior Full Stack Developer:
 - Senior Backend/Devops Engineer at SolvaitWise AI driven HR system:
   - Django Backend with openai and a Flutter Frontend
 - Senior FullStack Developer at American University (AUC):
-  - Carbon Data Assesment System to measure the carbon footprint of Universities
+  - An AI Carbon Data Assesment System to measure the carbon footprint of Universities
+  - https://campus-carbon.com/
 - Created Multiple Wordpress/WooCommerce Freelance Projects Examples:
   - https://norwichinternationalcollege.com
   - https://sddc-africa-2025.com
