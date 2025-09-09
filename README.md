@@ -1,5 +1,5 @@
 # 💫 About Me:
-- Working as A Platform Lead at Paymob Payments (FinTech)
+- Working as A Platform Engineering Lead at Paymob Payments (FinTech)
 - Created Start Up CyberTooth using Django, HTMX , Flutter, AWS, Docker, and Kubernetes
   - https://CyberTooth.app
 -  Senior FullStack Developer on a Ruby on Rails, React Native, Expo, NextJS, and VueJS Shopifiy alternative Zammit
