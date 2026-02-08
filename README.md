@@ -4,7 +4,7 @@
   - https://CyberTooth.app
 -  Senior FullStack Developer on a Ruby on Rails, React Native, Expo, NextJS, and VueJS Shopifiy alternative Zammit
   - https://Zammit.shop
-- Senior Backend/Devops Engineer at SolvaitWise AI driven HR system:
+- Senior Backend/Devops Engineer at SolvaitWise AI driven HR system (https://solvait.com/en/solvait-wise):
   - Django Backend with openai and a Flutter Frontend
 - Senior FullStack Developer at American University (AUC):
   - An AI Carbon Data Assesment System to measure the carbon footprint of Universities
