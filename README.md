@@ -10,6 +10,7 @@
   - An AI Carbon Data Assesment System to measure the carbon footprint of Universities
   - https://campus-carbon.com/
 - Created Multiple Wordpress/WooCommerce Freelance Projects Examples:
+  - https://elmasrytrading.com/
   - https://norwichinternationalcollege.com
   - https://sddc-africa-2025.com
   - https://ExMartEgypt.com
