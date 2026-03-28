@@ -1,53 +1,133 @@
-# 💫 About Me:
-- Working as A Platform Engineering Lead at Paymob Payments (FinTech)
-- Created Start Up CyberTooth using Django, HTMX , Flutter, AWS, Docker, and Kubernetes
-  - https://CyberTooth.app
--  Senior FullStack Developer on a Ruby on Rails, React Native, Expo, NextJS, and VueJS Shopifiy alternative Zammit
-  - https://Zammit.shop
-- Senior Backend/Devops Engineer at SolvaitWise AI driven HR system (https://solvait.com/en/solvait-wise):
-  - Django Backend with openai and a Flutter Frontend
-- Senior FullStack Developer at American University (AUC):
-  - An AI Carbon Data Assesment System to measure the carbon footprint of Universities
-  - https://campus-carbon.com/
-- Created Multiple Wordpress/WooCommerce Freelance Projects Examples:
-  - https://elmasrytrading.com/
-  - https://norwichinternationalcollege.com
-  - https://sddc-africa-2025.com
-  - https://ExMartEgypt.com
-  - https://FutureNowGlobal.com
-  - https://Cube108.com
-- HTML/CSS Websites Projects Examples:
-  - https://Abul-Makarem.com
-  - https://CampusOrganizer.app
-  - https://CyberTooth.app
-- Mobile Apps Using Flutter Projects (Android/IOS) Examples:
-  - CyberTooth Dental
-  - LifeAim Energize
-- Mobile Apps Using ReactNative and Expo Projects (Android/IOS) Examples:
-  - ZamPOS
-  - ZamShop
-- Worked with all major cloud providers, specially AWS
-- Red Team and SOC Fan training on TryHackMe.com and HackTheBox.com:
-  - UserName: Omar.Makarem
-    <br><img src="https://tryhackme-badges.s3.amazonaws.com/Omar.Makarem.png" alt="TryHackMe">
+<div align="center">
 
+<img src="https://komarev.com/ghpvc/?username=OmarAboulMakarem&style=flat-square&color=555555&label=profile+views" alt="profile views" />
 
+# Omar Aboul Makarem
 
+**Platform Engineer Lead · Full-Stack Engineer · SaaS Founder · Self-Taught**
 
-Languages i can speak and write:<br>
-- Arabic: Native Level<br>
-- English: Professional Level<br>
-- French: Good Level<br>
-- Romanian: Average Level<br>
-- Italian: Weak Level<br>
-- German: Weak Level<br>
+*Orthodontist turned engineer. Built everything from scratch. Still learning.*
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/omar-aboul-makarem-386792133)
+[![Website](https://img.shields.io/badge/Website-abul--makarem.com-111111?style=flat-square&logo=safari&logoColor=white)](https://abul-makarem.com)
+[![CyberTooth](https://img.shields.io/badge/CyberTooth-cybertooth.app-0d6efd?style=flat-square&logo=tooth&logoColor=white)](https://cybertooth.app)
+[![Email](https://img.shields.io/badge/Email-omaraboulmakarem@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:omaraboulmakarem@gmail.com)
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/omaraboulmakarem) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/omar-aboul-makarem-386792133) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/omar911112) 
+</div>
 
-# 💻 Tech Stack:
-![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=flat&logo=dart&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=flat&logo=ruby&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=flat&logo=powershell&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=flat&logo=gnu-bash&logoColor=white) ![YAML](https://img.shields.io/badge/yaml-%23ffffff.svg?style=flat&logo=yaml&logoColor=151515) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=flat&logo=windows-terminal&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=flat&logo=markdown&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=flat&logo=microsoftazure&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=flat&logo=google-cloud&logoColor=white) ![Linode](https://img.shields.io/badge/linode-00A95C?style=flat&logo=linode&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white) ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=flat&logo=digitalOcean&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat&logo=Cloudflare&logoColor=white) ![PythonAnywhere](https://img.shields.io/badge/pythonanywhere-%232F9FD7.svg?style=flat&logo=pythonanywhere&logoColor=151515) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=flat&logo=render&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white) ![Vultr](https://img.shields.io/badge/Vultr-007BFC.svg?style=flat&logo=vultr) ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=flat&logo=github&logoColor=white) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=flat&logo=heroku&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat&logo=firebase) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=flat&logo=anaconda&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=flat&logo=bootstrap&logoColor=white) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=flat&logo=chart.js&logoColor=white) ![Chakra](https://img.shields.io/badge/chakra-%234ED1C5.svg?style=flat&logo=chakraui&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=flat&logo=django&logoColor=white) ![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=flat&logo=django&logoColor=white&color=ff1709&labelColor=gray) ![Expo](https://img.shields.io/badge/expo-1C1E24?style=flat&logo=expo&logoColor=#D04A37) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB) ![Gulp](https://img.shields.io/badge/GULP-%23CF4647.svg?style=flat&logo=gulp&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat&logo=Flutter&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=flat&logo=flask&logoColor=white) ![Jinja](https://img.shields.io/badge/jinja-white.svg?style=flat&logo=jinja&logoColor=black) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=flat&logo=jquery&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=flat&logo=JSON%20web%20tokens) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=flat&logo=nodemon&logoColor=%BBDEAD) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=flat&logo=npm&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=flat&logo=opencv&logoColor=white) ![Qt](https://img.shields.io/badge/Qt-%23217346.svg?style=flat&logo=Qt&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![Rails](https://img.shields.io/badge/rails-%23CC0000.svg?style=flat&logo=ruby-on-rails&logoColor=white) ![Quasar](https://img.shields.io/badge/Quasar-16B7FB?style=flat&logo=quasar&logoColor=black) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=flat&logo=SASS&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white) ![Three js](https://img.shields.io/badge/threejs-black?style=flat&logo=three.js&logoColor=white) ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=flat&logo=yarn&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=flat&logo=WordPress&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=flat&logo=nginx&logoColor=white) ![Gunicorn](https://img.shields.io/badge/gunicorn-%298729.svg?style=flat&logo=gunicorn&logoColor=white) ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=flat&logo=apache-tomcat&logoColor=black) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=flat&logo=apache&logoColor=white) ![Couchbase](https://img.shields.io/badge/Couchbase-EA2328?style=flat&logo=couchbase&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=flat&logo=firebase&logoColor=ffcd34) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat&logo=mariadb&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=flat&logo=redis&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) ![Gimp](https://img.shields.io/badge/Gimp-657D8B?style=flat&logo=gimp&logoColor=FFFFFF) ![Inkscape](https://img.shields.io/badge/Inkscape-e0e0e0?style=flat&logo=inkscape&logoColor=080A13) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=flat&logo=Adobe%20Lightroom&logoColor=white) ![Adobe Creative Cloud](https://img.shields.io/badge/Adobe%20Creative%20Cloud-DA1F26.svg?style=flat&logo=Adobe%20Creative%20Cloud&logoColor=white) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=flat&logo=Adobe%20After%20Effects&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=flat&logo=adobe%20illustrator&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=flat&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=flat&logo=adobe%20photoshop&logoColor=white) ![Adobe Fonts](https://img.shields.io/badge/Adobe%20Fonts-000B1D.svg?style=flat&logo=Adobe%20Fonts&logoColor=white) ![Adobe Acrobat Reader](https://img.shields.io/badge/Adobe%20Acrobat%20Reader-EC1C24.svg?style=flat&logo=Adobe%20Acrobat%20Reader&logoColor=white) ![Adobe Lightroom Classic](https://img.shields.io/badge/Adobe%20Lightroom%20Classic-31A8FF.svg?style=flat&logo=Adobe%20Lightroom%20Classic&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=flat&logo=blender&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white) ![Dribbble](https://img.shields.io/badge/Dribbble-EA4C89?style=flat&logo=dribbble&logoColor=white) ![Sketch](https://img.shields.io/badge/Sketch-FFB387?style=flat&logo=sketch&logoColor=black) ![Affinity Photo](https://img.shields.io/badge/affinityphoto-%237E4DD2.svg?style=flat&logo=affinity-photo&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=flat&logo=plotly&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=flat&logo=scipy&logoColor=%white) ![CircleCI](https://img.shields.io/badge/circleci-%23161616.svg?style=flat&logo=circleci&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=flat&logo=githubactions&logoColor=white) ![TravisCI](https://img.shields.io/badge/travis%20ci-%232B2F33.svg?style=flat&logo=travis&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat&logo=Arduino&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=flat&logo=notion&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=flat&logo=jira&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=flat&logo=kubernetes&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=flat&logo=powerbi&logoColor=black) ![Prezi](https://img.shields.io/badge/Prezi-%23000000.svg?style=flat&logo=Prezi&logoColor=white) ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat&logo=Prometheus&logoColor=white) ![Rancher](https://img.shields.io/badge/rancher-%230075A8.svg?style=flat&logo=rancher&logoColor=white) ![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=flat&logo=Twilio&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=flat&logo=Trello&logoColor=white) ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=flat&logo=terraform&logoColor=white) ![TOR](https://img.shields.io/badge/tor-%237E4798.svg?style=flat&logo=tor-project&logoColor=white) ![XFCE](https://img.shields.io/badge/XFCE-%232284F2.svg?style=flat&logo=xfce&logoColor=white) ![Wireguard](https://img.shields.io/badge/wireguard-%2388171A.svg?style=flat&logo=wireguard&logoColor=white) ![Vagrant](https://img.shields.io/badge/vagrant-%231563FF.svg?style=flat&logo=vagrant&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=flat&logo=Raspberry-Pi) ![Pi-Hole](https://img.shields.io/badge/pihole-%2396060C.svg?style=flat&logo=pi-hole&logoColor=white) ![Plex](https://img.shields.io/badge/plex-%23E5A00D.svg?style=flat&logo=plex&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white) ![Bitwarden](https://img.shields.io/badge/bitwarden-%23175DDC.svg?style=flat&logo=bitwarden&logoColor=white) ![Babel](https://img.shields.io/badge/Babel-F9DC3e?style=flat&logo=babel&logoColor=black) ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=flat&logo=eslint&logoColor=white) ![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=flat&logo=ansible&logoColor=white) ![Alfred](https://img.shields.io/badge/alfred-%235C1F87.svg?style=flat&logo=alfred)
-# 📊 GitHub Stats:
-![](https://github-readme-streak-stats.herokuapp.com/?user=omaraboulmakarem&theme=github_dark&hide_border=false)<br/>
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+---
+
+## Who I Am
+
+I spent 10 years as a practicing orthodontist, published clinical researcher, and dental clinic founder before teaching myself to code from scratch — no CS degree, no bootcamp. I started with Python and Django in 2019 and systematically rebuilt my entire career through self-directed learning and real-world projects.
+
+I now work as **Platform Engineer Lead at Paymob** (Egypt's largest FinTech), where I led a platform overhaul that reduced total annual tech expenditure by ~20%, replaced enterprise SaaS platforms with in-house and open-source solutions, and deployed company-wide security infrastructure from scratch.
+
+I think in first principles. I build things alone when I have to. And I ship.
+
+---
+
+## What I'm Working On
+
+| Project | Role | Stack | Link |
+|---|---|---|---|
+| **Paymob** — Egypt's largest FinTech | Platform Engineer Lead | Kubernetes · Terraform · GitLab CI/CD · AWS/Azure/OCI · Grafana | — |
+| **Zammit** — E-commerce platform | Senior SRE | Grafana · Loki · Prometheus · Tempo · Alloy | [zammit.shop](https://zammit.shop) |
+| **CyberTooth** — SaaS dental platform | Founder & CTO | Django · Flutter · AWS · Kubernetes · ArgoCD | [cybertooth.app](https://cybertooth.app) |
+
+---
+
+## Things I've Built
+
+### 🏗️ Infrastructure & Platform
+- Designed and executed a platform overhaul at Paymob cutting ~20% of total annual tech spend — replaced FreshDesk, Jira, Confluence, Appgate, and more with in-house and open-source alternatives
+- Architected full observability stack across AWS, Azure, OCI (Grafana, Loki, Prometheus, Tempo, Alloy, Promtail)
+- Deployed company-wide privileged access management and credential hygiene from zero
+- Rolled out AI-assisted development tooling (Claude Code) across an entire engineering organization
+
+### 🤖 Agentic AI
+- Built a custom agentic AI engine for [Solvait Wise](https://solvait.com/en/solvait-wise) — multi-step LLM function-calling chains that autonomously generate company-wide OKRs, assign employee goals, and produce strategic execution plans
+- Built before LangChain or mainstream agentic frameworks existed — now commercially deployed across the Gulf
+
+### 🦷 SaaS from Scratch
+- **CyberTooth** ([cybertooth.app](https://cybertooth.app)) — Award-winning SaaS for dental clinic management. Winner: NilePreneurs / Central Bank of Egypt SaaS Prize 2021. Serves tens of clinics and thousands of patients. Built solo: web platform, mobile app, backend, infrastructure, CI/CD, and the business.
+
+### 🌱 Research & Data
+- **Campus Carbon** ([campus-carbon.com](https://campus-carbon.com)) — Carbon footprint assessment system for universities, built for the American University in Cairo
+
+### 🌐 Web & E-commerce
+- [elmasrytrading.com](https://elmasrytrading.com) · [norwichinternationalcollege.com](https://norwichinternationalcollege.com) · [sddc-africa-2025.com](https://sddc-africa-2025.com) · [ExMartEgypt.com](https://ExMartEgypt.com) · [FutureNowGlobal.com](https://FutureNowGlobal.com) · [Cube108.com](https://Cube108.com)
+
+---
+
+## Tech Stack
+
+**Infrastructure & DevOps**
+`Kubernetes` `Docker` `Helm` `Terraform` `ArgoCD` `GitLab CI/CD` `GitHub Actions` `Linux` `Bash` `NGINX`
+
+**Cloud**
+`AWS (EKS, EC2, S3, RDS)` `Azure (AKS)` `OCI` `DigitalOcean`
+
+**Observability**
+`Grafana` `Prometheus` `Loki` `Tempo` `Promtail` `Alloy`
+
+**Backend**
+`Python` `Django` `Django REST Framework` `Ruby on Rails` `Node.js` `PostgreSQL` `MySQL` `MongoDB` `Redis`
+
+**Frontend & Mobile**
+`React` `Next.js` `HTMX` `TailwindCSS` `TypeScript` `Flutter` `React Native (Expo)`
+
+**AI & Automation**
+`OpenAI API` `DeepSeek` `LLM function-calling` `n8n` `Claude Code`
+
+**Security**
+`WireGuard/Netbird` `PAM` `Web App Security` `Penetration Testing`
+
+---
+
+## Security & Homelab
+
+I run a self-hosted home lab — Linux servers, Docker, NGINX reverse proxies, WireGuard VPN, Pi-hole DNS, Plex, automated backups — as a permanent DevOps and security experimentation environment.
+
+I train on TryHackMe (Top 9% globally, 54,000+ points, 69 badges) with a focus on web application security and Red Team methodology, and on HackTheBox.
+
+<a href="https://tryhackme.com/p/Omar.Makarem">
+  <img src="https://tryhackme-badges.s3.amazonaws.com/Omar.Makarem.png" alt="TryHackMe Badge" height="60"/>
+</a>
+
+---
+
+## GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=OmarAboulMakarem&theme=github-dark-blue&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
+
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api?username=OmarAboulMakarem&show_icons=true&theme=github_dark&hide_border=true&count_private=true&hide=issues" alt="GitHub Stats" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OmarAboulMakarem&layout=compact&theme=github_dark&hide_border=true&langs_count=8" alt="Top Languages" />
+
+</div>
+
+---
+
+## Published Research
+
+- *Evaluation of the effects of maxillary expansion and protraction on facial soft tissue profile in unilateral cleft lip and palate patients using CBCT* — 2021
+- *Three-Dimensional Comparison between Protraction of Maxilla with Modified Tandem Appliance and FaceMask Therapy in Treating Cleft Patients with Skeletal Class III Malocclusion* — Egyptian Dental Journal, 2019
+
+---
+
+## Languages
+
+🇪🇬 Arabic (Native) · 🇬🇧 English (Professional) · 🇫🇷 French (Professional) · 🇷🇴 Romanian (Intermediate)
+
+---
+
+<div align="center">
+
+*Based in Egypt · French-Egyptian dual national · Open to remote and relocation*
+
+</div>
