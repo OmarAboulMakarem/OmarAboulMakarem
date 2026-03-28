@@ -31,9 +31,9 @@ I think in first principles. I build things alone when I have to. And I ship.
 
 | Project | Role | Stack | Link |
 |---|---|---|---|
-| **Paymob** — Egypt's largest FinTech | Platform Engineer Lead | Kubernetes · Terraform · GitLab CI/CD · AWS/Azure/OCI · Grafana | — |
-| **Zammit** — E-commerce platform | Senior SRE | Grafana · Loki · Prometheus · Tempo · Alloy | [zammit.shop](https://zammit.shop) |
-| **CyberTooth** — SaaS dental platform | Founder & CTO | Django · Flutter · AWS · Kubernetes · ArgoCD | [cybertooth.app](https://cybertooth.app) |
+| **Paymob** — Egypt's largest FinTech | Platform Engineer Lead | Kubernetes · Terraform · GitLab CI/CD · AWS/Azure/OCI · Grafana | [Paymob](https://paymob.com) |
+| **Zammit** — E-commerce platform | Senior SRE | Grafana · Loki · Prometheus · Tempo · Alloy | [Zammit](https://zammit.shop) |
+| **CyberTooth** — SaaS dental platform | Founder & CTO | Django · Flutter · AWS · Kubernetes · ArgoCD | [CyberTooth](https://cybertooth.app) |
 
 ---
 
@@ -54,6 +54,16 @@ I think in first principles. I build things alone when I have to. And I ship.
 
 ### 🌱 Research & Data
 - **Campus Carbon** ([campus-carbon.com](https://campus-carbon.com)) — Carbon footprint assessment system for universities, built for the American University in Cairo
+
+### 📱 Mobile Apps
+
+**Flutter (iOS & Android)**
+- **CyberTooth Dental** — Full clinic management app for dentists (appointments, records, billing, multi-doctor support)
+- **LifeAim Energize** — Personal productivity & habit tracking app
+
+**React Native + Expo (iOS & Android)**
+- **ZamPOS** — Point-of-sale app for Zammit merchants ([zammit.shop](https://zammit.shop))
+- **ZamShop** — Customer-facing shopping app for the Zammit e-commerce platform
 
 ### 🌐 Web & E-commerce
 - [elmasrytrading.com](https://elmasrytrading.com) · [norwichinternationalcollege.com](https://norwichinternationalcollege.com) · [sddc-africa-2025.com](https://sddc-africa-2025.com) · [ExMartEgypt.com](https://ExMartEgypt.com) · [FutureNowGlobal.com](https://FutureNowGlobal.com) · [Cube108.com](https://Cube108.com)
@@ -81,7 +91,7 @@ I think in first principles. I build things alone when I have to. And I ship.
 `OpenAI API` `DeepSeek` `LLM function-calling` `n8n` `Claude Code`
 
 **Security**
-`WireGuard/Netbird` `PAM` `Web App Security` `Penetration Testing`
+`WireGuard/Netbird/Tailscale` `PAM` `Web App Security` `Penetration Testing`
 
 ---
 
@@ -94,22 +104,6 @@ I train on TryHackMe (Top 9% globally, 54,000+ points, 69 badges) with a focus o
 <a href="https://tryhackme.com/p/Omar.Makarem">
   <img src="https://tryhackme-badges.s3.amazonaws.com/Omar.Makarem.png" alt="TryHackMe Badge" height="60"/>
 </a>
-
----
-
-## GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=OmarAboulMakarem&theme=github-dark-blue&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
-
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api?username=OmarAboulMakarem&show_icons=true&theme=github_dark&hide_border=true&count_private=true&hide=issues" alt="GitHub Stats" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OmarAboulMakarem&layout=compact&theme=github_dark&hide_border=true&langs_count=8" alt="Top Languages" />
-
-</div>
 
 ---
 
