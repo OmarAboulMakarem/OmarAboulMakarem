@@ -4,7 +4,7 @@
 
 # Omar Aboul Makarem
 
-**Platform Engineer Lead · Full-Stack Engineer · SaaS Founder · Self-Taught**
+**Head of Platform Engineering & DevOps · Full-Stack Engineer · SaaS Founder · Self-Taught**
 
 *Orthodontist turned engineer. Built everything from scratch. Still learning.*
 
@@ -21,7 +21,7 @@
 
 I spent 10 years as a practicing orthodontist, published clinical researcher, and dental clinic founder before teaching myself to code from scratch — no CS degree, no bootcamp. I started with Python and Django in 2019 and systematically rebuilt my entire career through self-directed learning and real-world projects.
 
-I now work as **Platform Engineer Lead at Paymob** (Egypt's largest FinTech), where I led a platform overhaul that reduced total annual tech expenditure by ~20%, replaced enterprise SaaS platforms with in-house and open-source solutions, and deployed company-wide security infrastructure from scratch.
+I now work as **Head of Platform Engineering & DevOps at Paymob** (Egypt's largest FinTech), where I led a platform overhaul that saved 25% of all engineering tech spend, replaced enterprise SaaS platforms with in-house and open-source solutions, deployed an on-prem GPU server running self-hosted local AI for all sensitive/PII engineering work, and rolled out ~17 open-source and in-house tools that boosted security, compliance, and productivity while cutting costs org-wide.
 
 I think in first principles. I build things alone when I have to. And I ship.
 
@@ -31,7 +31,7 @@ I think in first principles. I build things alone when I have to. And I ship.
 
 | Project | Role | Stack | Link |
 |---|---|---|---|
-| **Paymob** — Egypt's largest FinTech | Platform Engineer Lead | Kubernetes · Terraform · GitLab CI/CD · AWS/Azure/OCI · Grafana | [Paymob](https://paymob.com) |
+| **Paymob** — Egypt's largest FinTech | Head of Platform Engineering & DevOps | Kubernetes · Terraform · GitLab CI/CD · AWS/Azure/OCI · Grafana | [Paymob](https://paymob.com) |
 | **Zammit** — E-commerce platform | Senior SRE | Grafana · Loki · Prometheus · Tempo · Alloy | [Zammit](https://zammit.shop) |
 | **CyberTooth** — SaaS dental platform | Founder & CTO | Django · Flutter · AWS · Kubernetes · ArgoCD | [CyberTooth](https://cybertooth.app) |
 
@@ -40,7 +40,9 @@ I think in first principles. I build things alone when I have to. And I ship.
 ## Things I've Built
 
 ### 🏗️ Infrastructure & Platform
-- Designed and executed a platform overhaul at Paymob cutting ~20% of total annual tech spend — replaced FreshDesk, Jira, Confluence, Appgate, and more with in-house and open-source alternatives
+- Designed and executed a platform overhaul at Paymob saving 25% of total annual engineering tech spend — replaced FreshDesk, Jira, Confluence, Appgate, and more with in-house and open-source alternatives
+- Deployed an on-premises server with a dedicated GPU running a self-hosted local AI/LLM stack, used org-wide across the entire engineering department for any sensitive work or PII-related workload, keeping regulated data on-prem for FinTech compliance
+- Rolled out ~17 tools org-wide (open-source and in-house built) that improved security and compliance and boosted productivity while cutting costs across all engineering teams
 - Architected full observability stack across AWS, Azure, OCI (Grafana, Loki, Prometheus, Tempo, Alloy, Promtail)
 - Deployed company-wide privileged access management and credential hygiene from zero
 - Rolled out AI-assisted development tooling (Claude Code) across an entire engineering organization
